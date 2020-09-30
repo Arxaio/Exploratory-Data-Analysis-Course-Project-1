@@ -3,6 +3,7 @@
 This is a repository for the Exploratory data analysis Course 1 project. It includes a script called "ExploritoryDataAnalysis.R", which:
 * Reads the data "household_power_consumption.txt"
 * Converts the rows from character to either numeric, date or time depending on the type of data
+* Filters data only from the the dates 2007-02-01 and 2007-02-02
 * Creates 4 plots as indicated in the assignment instructions and copies plots from screen to a png file
 
 Further, this repository includes the 4 plots which were instructed to be made:
